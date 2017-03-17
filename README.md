@@ -16,6 +16,8 @@ To run the code, we may follow the commands below:
 
 Suppose we're at the directory which contains the files
 
+Enter the following commands and execute the python scripts in the terminal
+
 **Log into the web wechat**:
 
 ```bash
