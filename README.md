@@ -4,9 +4,11 @@
 - Python 2.7
 - WeChat app
 
-There are 2 files in the folder:
+There are 4 files in this repository:
   - **login.py**: By executing this file, we can get a QR code file downloaded. Scan the QR code and then we can log into the web wechat.
   - **test.py**: This is a script to design the wechat robot by using some functions and packages in python.
+  - **Result1.jpg**: A simple example of chatting with the robot
+  - **Result2.jpg**: Another simple example of chatting with the robot
 
 **Execution instructions**:
 
@@ -28,4 +30,5 @@ After starting the auto-response, we can let someone else speak to us by using w
 
 **Results**
 
+The examples of chatting with the robot are in files **Result1.jpg** and **Result2.jpg** 
  
