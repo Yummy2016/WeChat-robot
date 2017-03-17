@@ -17,6 +17,17 @@ To run the code, we may follow the commands below:
 Suppose we're at the directory which contains the files
 
 Enter the following commands and execute the python scripts in the terminal
+**Install itchat package**
+
+```bash
+sudo pip install itchat --upgrade
+```
+Check it it's intalled successfully
+
+```bash
+python -c "import itchat"
+```
+If there is no error reported, then the package is installed successfully.
 
 **Log into the web wechat**:
 
@@ -34,3 +45,8 @@ After starting the auto-response, we can let someone else speak to us by using w
 
 The examples of chatting with the robot are in files **Result1.jpg** and **Result2.jpg** 
 The words in the **white dialog boxes** are the robot's responses towards the requests or questions in the **green boxes**. The **green dialog boxes** are in charge of someone else in your wechat contact lists.
+
+**Note**
+
+This "itchat" package supports Chinese language better.
+Maybe in the future, I can find out some packages mainly supporting English or other languages and put them into the application.
