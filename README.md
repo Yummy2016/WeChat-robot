@@ -33,4 +33,4 @@ After starting the auto-response, we can let someone else speak to us by using w
 **Results**
 
 The examples of chatting with the robot are in files **Result1.jpg** and **Result2.jpg** 
- 
+The words in the **white dialog boxes** are the robot's responses towards the requests or questions in the **green boxes**. The **green dialog boxes** are in charge of someone else in your wechat contact lists.
